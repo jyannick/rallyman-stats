@@ -1,2 +1,3 @@
-bokeh
-pillow
+bokeh==2.0.1
+pillow==7.1.2
+fpdf==1.7.2
